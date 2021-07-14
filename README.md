@@ -40,4 +40,4 @@ If you have any questions, please do not hesitate to contact via the following w
 
 - A short message through the WeChat group;
 
-- Directly pose a question on this Github project;
+- Directly pose an issue on this Github project;
