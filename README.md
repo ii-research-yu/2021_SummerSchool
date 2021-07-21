@@ -26,7 +26,11 @@ If you're not familiar with python, it will be quite helpful to learn some basic
 
     https://wj.qq.com/s2/8751303/c5d0/
 
-## 4. Challenging topics
+- Exercises after Lecture-4
+
+    https://wj.qq.com/s2/8783980/4285/
+
+## 4. Challenging topics (optional)
 
 The following topics can be finished by a number of students as a team.
 
