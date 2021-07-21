@@ -16,19 +16,11 @@ If you're not familiar with python, it will be quite helpful to learn some basic
 
 - Exercises after Lecture-1
     
-    TBA
+    https://wj.qq.com/s2/8749683/ba0d/
 
 - Exercises after Lecture-2
 
-    TBA
-  
-- Exercises after Lecture-3
-
-    TBA
-  
-- Exercises after Lecture-4
-
-    TBA
+    https://wj.qq.com/s2/8751303/c5d0/
 
 ## 4. Challenging topics
 
@@ -47,6 +39,12 @@ The following topics can be finished by a number of students as a team.
   - title:  Dynamic Modality Interaction Modeling for Image-Text Retrieval.
   - conference: proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, 1104–1113, 2021.
   > Note: this paper **by researchers from Shandong University** won the best student paper award.
+
+- Topic-4: Four-digit MNIST sorting
+    - Try to explore how to perform four-digit MNIST sorting based on an open-sourced method or explore a new method.
+    - reference paper:
+    - Section 5.1 in Differentiable Sorting Networks for Scalable Sorting and Ranking Supervision
+    - links for the paper: (1) http://proceedings.mlr.press/v139/petersen21a/petersen21a.pdf (2) https://arxiv.org/abs/2105.04019 
 
 
 ## 5 QA
