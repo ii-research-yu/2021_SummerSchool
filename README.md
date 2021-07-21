@@ -2,11 +2,15 @@
 
 
 ## 1. Questionnaire
-
 In order to make the course interesting and easy-to-follow, it would be highly appreciated if you could provide some details on the following questions, thanks for your collaboration and time!
 
-https://wj.qq.com/s2/8749381/75d6/
+- Before the course
 
+  https://wj.qq.com/s2/8749381/75d6/
+
+- After the course
+
+  https://wj.qq.com/s2/8749791/46a5/
 
 ## 2. Expected preliminary preparations
 
